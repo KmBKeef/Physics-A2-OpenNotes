@@ -10,3 +10,7 @@ Different quantities to be taken at the same time
 measurements to be taken remotely  
 experiments can be carried out over a long period of time.  
 B. putin
+
+
+B: when comparing y = mx + c 
+ state that m is constant
